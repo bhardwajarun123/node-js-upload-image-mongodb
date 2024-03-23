@@ -1,5 +1,5 @@
 module.exports = {
-  url: "mongodb://localhost:27017/",
-  database: "bezkoder_files_db",
+  url: "mongodb+srv://ferrari:ferrari4cr@cluster0.vdg5s6s.mongodb.net/",
+  database: "images_db",
   imgBucket: "photos",
 };
